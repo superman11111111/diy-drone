@@ -48,13 +48,14 @@ https://www.youtube.com/watch?v=XvMdL1PncEQ
 
 #### Thrust/Weight ratio
 
-Should be Approx. 2/1 for normal use 
-I will be aiming for a TW > 2
+Should be Approx. 2/1 for normal use, I will be aiming for a TW > 2
 
 #### Frame
 
 Form: Quadcopter (No one builds tricopters apparently) 
+
 Size: 150-250 mm
+
 Two ruler + screws = frame 
 
 
