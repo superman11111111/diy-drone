@@ -3,15 +3,15 @@
 ### Resources
 
 https://dojofordrones.com/build-a-drone/
-
+https://www.youtube.com/watch?v=XvMdL1PncEQ
 
 
 ### Components
 
 * Frame
-	* Tri-(3), Quad-(4), Hexa-(6) or Octo(8)coptor
-	* 3-coptor is cheaper, less complicated => My choice
-	* Size of frame:
+	* Tri-(3), Quad-(4), Hexa-(6) or Octo(8)copter
+	* 3-copter is cheaper, less complicated => My choice
+	* Size of frame: Farthest distance 2 motors are apart 
 		* Nano Drone: 80-100 mm
 		* Micro Drone: 100-150 mm
 		* Small Drone: 150-250 mm
@@ -45,5 +45,16 @@ https://dojofordrones.com/build-a-drone/
 
 ### Part selection
 
+
+#### Thrust/Weight ratio
+
+Should be Approx. 2/1 for normal use 
+I will be aiming for a TW > 2
+
+#### Frame
+
+Form: Quadcopter (No one builds tricopters apparently) 
+Size: 150-250 mm
+Two ruler + screws = frame 
 
 
