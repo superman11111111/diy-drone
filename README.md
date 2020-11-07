@@ -13,6 +13,8 @@ http://www.kopterforum.de/tutorials/article/1-der-propeller-bei-multicoptern/
 
 Bau eines Quadrocopters - Alexander Eichhorn Maturaarbeit, 2018
 
+Building your own drones - John Baichtal
+
 Carbon Fiber vs. Fiberglass
 https://infogram.com/carbon-fiber-vs-fiberglass-1gdk8pd471dvpq0
 
@@ -54,6 +56,7 @@ https://infogram.com/carbon-fiber-vs-fiberglass-1gdk8pd471dvpq0
 	* Sending commands
 	* Receiving data
 
+
 ### Part list
 
 Frame: ~15$
@@ -65,6 +68,8 @@ Frame: ~15$
 
 Motor: ~15$
 * 4x [A2212 2700KV](https://www.aliexpress.com/item/4000126612134.html?spm=a2g0o.cart.0.0.2d763c003dmuDF&mp=1) [or](https://www.aliexpress.com/item/4001240615785.html?spm=a2g0o.productlist.0.0.4f891638HumXPE&algo_pvid=66c7b704-07a6-43e8-9ee1-315580f2b481&algo_expid=66c7b704-07a6-43e8-9ee1-315580f2b481-0&btsid=0b0a182b16027909628073591e3360&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
+* mn2214 kv920 (phantom motors)
+
 ~15$
 
 Rotor:
